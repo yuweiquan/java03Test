@@ -8,6 +8,7 @@ public class HellWorld {
 		int b=10;
 		System.out.println(a+b);
 		System.out.println("你是小乌龟");
+		System.out.println("你是小乌龟");
 
 	}
 
